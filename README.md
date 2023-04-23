@@ -1,3 +1,8 @@
-git add .
-git commit -m "My first page"
-git push origin master
+<html>
+  <head>
+    <title>My first page</title>
+  </head>
+  <body>
+    <h1>hello.</h1>    
+  </body>
+</html>
